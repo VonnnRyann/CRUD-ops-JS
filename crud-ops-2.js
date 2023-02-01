@@ -75,6 +75,11 @@ console.log('myPhone ', myPhone);
 //myPhone['keyName'] = 'blue' ====> this is a bad habit
 //console.log('myPhone ', myPhone);
 
+//JSON.string syntax!!
+//JSON.stringify(object);
+//let strMyPen = JSON.stringify(myPhone);
+//console.log('String myPhone', myPhone);
+
 // DELETE PARTS
 
 delete myPhone.brand;
